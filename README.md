@@ -12,6 +12,13 @@ The Cumulative Grade Point Average (CGPA) is a standard way of measuring academi
 It is calculated using the formula:                                                                                                                           
 
       CGPA = Total grade points achieved throughout all semesters / Total credits taken in all semesters.
+
+# Files 
+README.md : 
+SourceCode.cpp : 
+
 # How To Use 
 You can download the sourcecode and run it on CodeBlocks or any other favored IDE. 
+
+# Compatibility
 Reminder : The header is not part of the C++ standard and is specific to GCC (GNU Compiler Collection).
