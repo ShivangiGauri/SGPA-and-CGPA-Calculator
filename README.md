@@ -14,11 +14,12 @@ It is calculated using the formula:
       CGPA = Total grade points achieved throughout all semesters / Total credits taken in all semesters.
 
 # Files 
-README.md : 
-SourceCode.cpp : 
+The project consist of the following files :                                                                                                            
+1. README.md : The readme file with instructions and information about the project.                                                                        
+2. SourceCode.cpp : The C++ file containing the implementation of the Calculator.                                                                           
 
 # How To Use 
 You can download the sourcecode and run it on CodeBlocks or any other favored IDE. 
 
 # Compatibility
-Reminder : The header is not part of the C++ standard and is specific to GCC (GNU Compiler Collection).
+The header is not part of the C++ standard and is specific to GCC (GNU Compiler Collection).
